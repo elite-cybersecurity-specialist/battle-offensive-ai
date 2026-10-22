@@ -1,0 +1,83 @@
+# Private source code and development folders (documentation-only public repository)
+/core/
+/attack/
+/analysis/
+/api/
+/execution/
+/discovery/
+/infrastructure/
+/intelligence/
+/tools/
+/ui/
+/prompts/
+/test/
+/tests/
+/ai_training_materials/
+/ml_models/
+/training_datasets/
+/documentation/
+/confidential/
+/private/
+/internal/
+/client_data/
+/engagements/
+
+# Private assessment artifacts and evidence
+/logs/
+/outputs/
+/scans/
+/reports/
+/pocs/
+/poc_drafts/
+/webshells/
+/scan_state.json
+/*_scan_state.json
+/*_secrets*
+/*credentials*
+/*tokens*
+
+# Secret files and environment configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.kdbx
+*.asc
+id_rsa*
+id_ed25519*
+*.sqlite
+*.db
+
+# Dataset and archive guards
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.pcap
+*.pcapng
+*.har
+*.jsonl
+*.onnx
+*.onnx.bak
+
+# Python and system caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+ai-env/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Note: .gitignore prevents accidental staging of untracked files.
+# It does not remove already-tracked files or prevent all possible leaks.
