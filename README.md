@@ -11,6 +11,8 @@
 
 **DISCOVER. ANALYZE. TEST. VALIDATE. LEARN.**
 
+[Company Profile](https://github.com/elite-cybersecurity-specialist/company-profile) · [LinkedIn Company Page](https://www.linkedin.com/company/elite-cybersecurity-specialist/) · [Official ECS Blog](https://elite-cybersecurity-specialist.blogspot.com)
+
 ---
 
 ## Executive Overview
@@ -315,11 +317,14 @@ No. Active testing must remain within an authorized engagement and defined opera
 
 **Email:** [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com)<br>
 **WhatsApp:** [+60 17-279 1717](https://wa.me/60172791717)<br>
+**GitHub — Company Profile:** [Official repository](https://github.com/elite-cybersecurity-specialist/company-profile)<br>
 **GitHub — Battle Offensive AI:** [Official repository](https://github.com/elite-cybersecurity-specialist/battle-offensive-ai)<br>
 **GitHub — Other Cybersecurity Projects:** [Elite Cybersecurity Specialist](https://github.com/elite-cybersecurity-specialist)<br>
 **TikTok:** [@yuhisern](https://www.tiktok.com/@yuhisern)<br>
 **LinkedIn:** [linkedin.com/in/yuhisern](https://www.linkedin.com/in/yuhisern)<br>
-**X:** [x.com/yuhisern](https://x.com/yuhisern)
+**X:** [x.com/yuhisern](https://x.com/yuhisern)<br>
+**LinkedIn — ECS Company:** [Elite Cybersecurity Specialist](https://www.linkedin.com/company/elite-cybersecurity-specialist/)<br>
+**Official ECS Blog:** [ECS Cybersecurity Articles](https://elite-cybersecurity-specialist.blogspot.com)
 
 ---
 
